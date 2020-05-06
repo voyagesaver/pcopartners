@@ -1812,8 +1812,8 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1367.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1827,12 +1827,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Thanks to our capital experience in the food industry, our teams support you on <br>a daily basis in your accounting, tax and regulatory management. <br>We assist you according to your needs in your investment, development or transformation projects.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpeg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1846,12 +1846,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "In the automotive and transport sector, we support multinationals and renowned companies to meet their sectoral challenges. This mark of trust is proof of our expertise in this sector.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpeg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1865,12 +1865,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Numerous regulatory changes, the emergence of new technologies and new players are all constraints that affect players in the banking sector. It is up to the bank to develop its offer to adapt to the changes. Rethinking the customer experience and strengthening the risk management system while maintaining its financial security are all parameters that the bank must integrate.\n<br>At PCo. Partners our teams support the bank in facing these challenges.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1884,12 +1884,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "At PCo. Partners, we provide practical and innovative solutions that we make available to stakeholders in this sector in order to play our part in the development of education in Senegal.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1295.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1903,12 +1903,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "The recent oil and gas discoveries in Senegal will inevitably stimulate the growth momentum of this strategic sector of the economy. Major challenges are emerging for players in this sector.\n<br>PCo. Partners positions itself as a strategic partner, supporting players in this sector to anticipate and find solutions to the challenges of this complex market by offering them a wide range of services.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1227.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1922,12 +1922,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Thanks to our in-depth knowledge of real estate, hotels and restaurants, we have helped to better understand this sector and face the many challenges inherent in its dynamism.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1941,12 +1941,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "A real keystone of economic growth, this sector has experienced significant growth in recent years in Senegal, especially with the launch of major government projects. PCo. Partners supports players in this sector to face the challenges they face by offering them tailor-made services across the entire value chain of construction, public works and more generally infrastructure.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-10-1920x1280.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1960,12 +1960,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "In recent years, the evolution of uses and technologies has brought about an upheaval in the Media-Telecom &amp; e-business activity sector, de facto causing a transformation of the value chain of sectoral players.\n<br>In this area of activity, we work closely with our customers to provide concrete solutions to their challenges.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1440.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1979,12 +1979,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "PCo. Partners has developed proven expertise in the Oil, Gas &amp; and Mining sectors and is positioned as the preferred partner of sector players such as oil, gas and mining companies, financial institutions, investors and governments. We support our clients in this sector in the legal, tax, audit and consulting fields by offering them quality services at the various stages of their value chain.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-12-1920x1280.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1998,12 +1998,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "A key sector of economic and social development, today the problem of financing constitutes one of the major challenges of the Senegalese health sector. Sectoral players need more than ever daily support in the field of auditing, consulting and chartered accountancy for optimal management of their financial resources.\n<br>PCo. Partners supports these players in meeting their sectoral challenges, transforming their challenges into opportunities.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-13-1920x1280.jpg",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -2017,7 +2017,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Real growth prospects are opening up to players in the technology sector thanks to the emergence of new technologies such as AI, cloud computing (SaaS), IoT, blockchain, etc. The growth dynamic of this sector poses new challenges which our multidisciplinary teams are ready to help you deal with.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayOpacity": "0.6"
               }
             ]

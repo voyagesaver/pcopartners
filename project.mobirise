@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PCo. Partners",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "marketm4",
       "title": "MarketM4",
@@ -4730,7 +4730,7 @@
             },
             ".card-title1, .title-wrap1": {
               "text-align": "center",
-              "color": "#2ecc71"
+              "color": "#00b16a"
             },
             ".title": {
               "text-align": "center"

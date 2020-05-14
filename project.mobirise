@@ -1305,7 +1305,7 @@
             },
             ".card-subtitle1": {
               "text-align": "center",
-              "color": "#414141"
+              "color": "#121111"
             },
             ".card-title1": {
               "text-align": "center"
@@ -1322,7 +1322,7 @@
               "text-align": "left"
             },
             ".card-subtitle2": {
-              "color": "#414141",
+              "color": "#121111",
               "text-align": "center"
             },
             ".card-title3": {
@@ -1333,7 +1333,7 @@
             },
             ".card-subtitle3": {
               "text-align": "center",
-              "color": "#414141"
+              "color": "#121111"
             },
             ".card-title4": {
               "text-align": "center"
@@ -1344,7 +1344,7 @@
             },
             ".card-subtitle4": {
               "text-align": "center",
-              "color": "#414141"
+              "color": "#121111"
             },
             ".card-title2, .title-wrap2": {
               "text-align": "center",

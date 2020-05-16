@@ -1106,7 +1106,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1136,15 +1136,15 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "TECHNICAL TRAINING AND MONITORING",
+                "textTitle": "TAX &amp; LEGAL",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "We support our clients in the training aspect thanks to the proven experience of our partners in coaching.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1130.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1155,7 +1155,7 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "AUDIT",
+                "textTitle": "AUDIT &amp; ASSURANCES",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Our professional risk management policy, in full compliance with the provisions of the IFAC code of ethics and international quality control standards, guarantees the quality of our commitment but also the independence of our teams.",
@@ -1175,7 +1175,7 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "EXPERTISE - COUNCIL",
+                "textTitle": "ADVISORY",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Through our consultancy activities, we offer various services that help optimize the resources of our clients.",
@@ -1194,10 +1194,10 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "TAX &amp; LEGAL",
+                "textTitle": "ACCOUNTING",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Faced with the many changes taking place at the regulatory and fiscal level, partners helps you find solutions adapted to your problems.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {

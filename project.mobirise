@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PCo. Partners",
-    "currentPage": "Industries.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "marketm4",
       "title": "MarketM4",
@@ -1105,8 +1105,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpeg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpeg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1125,7 +1125,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1056.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,

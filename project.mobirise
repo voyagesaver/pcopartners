@@ -1106,7 +1106,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1120,7 +1120,7 @@
                 "textTitle": "PCo. Partners",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Another Trustee Approach",
+                "text": "Another Trustee Approach &nbsp; | &nbsp; Certified Public Accountant<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
@@ -1202,7 +1202,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PCo. Partners",
-    "currentPage": "pcopartnersadvisory.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "marketm4",
       "title": "MarketM4",
@@ -1101,7 +1101,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": 4000,
+            "slides__autoplayInterval": "6000",
             "slides__showBullets": true,
             "slides": [
               {

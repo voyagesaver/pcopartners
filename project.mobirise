@@ -1088,6 +1088,9 @@
             },
             "H2": {
               "color": "#87d37c"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_name": "header7",
@@ -1109,7 +1112,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1139,7 +1142,7 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "TAX &amp; LEGAL",
+                "textTitle": "<br>TAX &amp; LEGAL",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Maximize your profits and minimize your tax liability",
@@ -1158,10 +1161,10 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "AUDIT &amp; ASSURANCES",
+                "textTitle": "<br>AUDIT &amp; ASSURANCES",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Our quality control system (QCS) which focuses on risk allows our team to plan,\nexecute and <br>report on the reliability of the information provided by a company\nmanagement.",
+                "text": "Are your financial statements free from error, frauds or material misstatement?",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnersauditandassurances.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>",
                 "overlayOpacity": "0.7"
               },
@@ -1178,10 +1181,10 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "ADVISORY",
+                "textTitle": "<br>ADVISORY",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Through our Advisory activities, we offer various services that help optimize our clients resources.",
+                "text": "For small business owners, The CPA is more than an accountant; he is their most trusted financial advisor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnersadvisory.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
               },
               {
@@ -1197,18 +1200,18 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "ACCOUNTING",
+                "textTitle": "<br>ACCOUNTING",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "We go beyond number crunching and help small businesses reduce their tax\n<br>liability and increase profitability.",
+                "text": "We are pretty good with numbers. We’ll handle all your accounting needs, so you can focus on growing your business.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnersaccounting.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
-                "showText": true,
-                "showTitle": false,
+                "showText": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -1216,7 +1219,7 @@
                 "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
-                "textTitle": "GET YOUR FREE CONSULTATION",
+                "textTitle": "<br>GET YOUR FREE CONSULTATION",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>GET YOUR FREE CONSULTATION</b>",

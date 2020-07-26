@@ -1116,14 +1116,14 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
                 "textTitle": "PCo. Partners",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Another Trustee Approach<br>Certified Public Accountant<br>",
+                "text": "Certified Public Accountants<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {

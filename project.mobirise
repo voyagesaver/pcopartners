@@ -1133,14 +1133,14 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
                 "textTitle": "TAX &amp; LEGAL",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Maximize your profits and minimize your tax liability",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"pcopartnerstaxandlegal.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnerstaxandlegal.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1130.jpg",
@@ -1152,14 +1152,14 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
                 "textTitle": "AUDIT &amp; ASSURANCES",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Our quality control system (QCS) which focuses on risk allows our team to plan,\nexecute and <br>report on the reliability of the information provided by a company\nmanagement.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"pcopartnersauditandassurances.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnersauditandassurances.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>",
                 "overlayOpacity": "0.7"
               },
               {
@@ -1172,14 +1172,14 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
                 "textTitle": "ADVISORY",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Through our Advisory activities, we offer various services that help optimize our clients resources.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"pcopartnersadvisory.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnersadvisory.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
@@ -1191,14 +1191,14 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-7",
-                "customStyle3": "display-4",
+                "customStyle3": "display-7",
                 "alt": "",
                 "title": "",
                 "textTitle": "ACCOUNTING",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "We go beyond number crunching and help small businesses reduce their tax\n<br>liability and increase profitability.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"pcopartnersaccounting.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"pcopartnersaccounting.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-7\" data-app-placeholder=\"Type Text\" href=\"tel:(713) 489-3484\" data-toolbar=\"-mbrBtnMove\">(713) 489-3484</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",

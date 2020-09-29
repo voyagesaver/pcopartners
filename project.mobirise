@@ -1900,7 +1900,7 @@
             }
           },
           "_name": "header7",
-          "_customHTML": "<section class=\"header7 carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t    <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n         <input type=\"range\" title=\"Carousel Height\" name=\"carouselHeight\" min=\"500\" max=\"1000\" value=\"500\" step=\"10\" inline>\n         <header>Carousel Settings</header>\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" mbr-carousel-embedded mbr-class=\"{'full-screen' : fullScreen}\"></div>\n\n</section>",
+          "_customHTML": "<section class=\"header7 carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t    <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n         <input type=\"range\" title=\"Carousel Height\" name=\"carouselHeight\" min=\"500\" max=\"1000\" value=\"590\" step=\"10\" inline>\n         <header>Carousel Settings</header>\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" mbr-carousel-embedded mbr-class=\"{'full-screen' : fullScreen}\"></div>\n\n</section>",
           "_anchor": "header7-6w",
           "_isUserblock": true,
           "_sourceTheme": "marketm4",
@@ -1939,7 +1939,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-19-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -1958,7 +1958,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-13-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,

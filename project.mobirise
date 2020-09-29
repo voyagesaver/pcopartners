@@ -1972,7 +1972,7 @@
                 "textTitle": "PROFESSIONAL SERVICES",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "&nbsp;REAL ESTATE\n<br>PEST CONTROL\n<br>&nbsp;CLEANING SERVICES\n<br>MEDICAL PRACTICES/CLINICS\n<br>DOCTORES\n<br>NURSES AND DENTISTS",
+                "text": "&nbsp;REAL ESTATE\n<br>PEST CONTROL\n<br>&nbsp;CLEANING SERVICES\n<br>MEDICAL PRACTICES / CLINICS\n<br>DOCTORS\n<br>NURSES AND DENTISTS",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayOpacity": "0.6"
               },
